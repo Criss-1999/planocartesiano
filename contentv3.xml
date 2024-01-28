@@ -1069,8 +1069,8 @@ Universidad Técnica Particular de Loja"></unicode>
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Un sistema coordenado lineal, no es más que el establecimiento de una correspondencia uno a uno, entre los puntos de una línea recta y los números reales.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;resources/linea2.png&quot; alt=&quot;Graficas.&quot; title=&quot;Lineas 5&quot; width=&quot;725&quot; height=&quot;103&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Consideremos la recta X´X cuya dirección positiva es la indicada (Fig. 5), tomamos un punto «o» de ésta para representar al cero, a la derecha de «o» ubicaremos los números positivos y a la izquierda los negativos, tomando una unidad de medida adecuada podemos representar cualquier número real sobre esta recta.&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p&gt;&lt;img src=&quot;resources/linea2.png&quot; alt=&quot;Graficas.&quot; title=&quot;Lineas 5&quot; width=&quot;648&quot; height=&quot;92&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Consideremos la recta X´X cuya dirección positiva es la indicada (Fig. 6), tomamos un punto «o» de ésta para representar al cero, a la derecha de «o» ubicaremos los números positivos y a la izquierda los negativos, tomando una unidad de medida adecuada podemos representar cualquier número real sobre esta recta.&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
                  <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1090,7 +1090,7 @@ Universidad Técnica Particular de Loja"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="592"></int>
+                        <int value="609"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1104,7 +1104,7 @@ Universidad Técnica Particular de Loja"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="9_125_2.28"></unicode>
+                      <unicode value="9_125_2.29"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="22">
                        <dictionary>
@@ -1115,7 +1115,7 @@ Universidad Técnica Particular de Loja"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="linea2.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\user\\appdata\\local\\temp\\tmpr__6xu.eXe\\previews\\allyourbase\\linea2.png"></string>
+                        <string value="c:\\users\\user\\appdata\\local\\temp\\tmpr__6xu.eXe\\previews\\linea2.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="22ea325507757d43824984415025b99f"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1144,7 +1144,7 @@ Universidad Técnica Particular de Loja"></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="29"></int>
+                 <int value="30"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="21"></reference>
                 </dictionary>
@@ -1548,7 +1548,7 @@ Universidad Técnica Particular de Loja"></unicode>
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Un sistema de coordenadas rectangulares es un método para ubicar cualquier punto en el espacio o en el plano, dando tres coordenadas. En matemática y geometría, se utiliza para ubicar de manera precisa cualquier punto sobre el espacio. Para ello es suficiente con dar tres coordenadas. La construcción del sistema en el plano es muy simple, solo se necesitan tres rectas que serán los ejes coordenados o ejes cartesianos: uno vertical, otro horizontal y un tercero que entra o sale del papel o la pantalla. Dichos ejes son mutuamente perpendiculares y el punto de intersección es el origen del sistema. Cuadriculando cada uno de estos planos y asignando una escala, se puede ubicar cualquier punto en el espacio dando las respectivas coordenadas x, y, z, siempre en ese orden, para evitar ambigüedades.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;resources/plano.png&quot; alt=&quot;Plano Cartesiano.&quot; title=&quot;Plano Cartesiano.&quot; width=&quot;349&quot; height=&quot;304&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;resources/img0.png&quot; alt=&quot;Plano Cartesiano.&quot; title=&quot;Plano Cartesiano.&quot; width=&quot;550&quot; height=&quot;314&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
@@ -1569,7 +1569,7 @@ Universidad Técnica Particular de Loja"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="595"></int>
+                        <int value="610"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1583,7 +1583,7 @@ Universidad Técnica Particular de Loja"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="12_128_2.9"></unicode>
+                      <unicode value="12_128_2.10"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="31">
                        <dictionary>
@@ -1592,11 +1592,11 @@ Universidad Técnica Particular de Loja"></unicode>
                         <string role="key" value="_package"></string>
                         <reference key="4"></reference>
                         <string role="key" value="_storageName"></string>
-                        <string value="plano.png"></string>
+                        <string value="img0.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\user\\appdata\\local\\temp\\tmpr__6xu.eXe\\previews\\allyourbase\\plano.png"></string>
+                        <string value="c:\\users\\user\\appdata\\local\\temp\\tmpr__6xu.eXe\\previews\\img0.png"></string>
                         <string role="key" value="checksum"></string>
-                        <string value="4fa3854e4c389e0d94368ba7368c4c87"></string>
+                        <string value="ecc27c54bb97e70dd31d9e4719c9effa"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                         <int value="2"></int>
                         <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -1623,7 +1623,7 @@ Universidad Técnica Particular de Loja"></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="10"></int>
+                 <int value="11"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="30"></reference>
                 </dictionary>
@@ -9673,7 +9673,7 @@ for the other options."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="21"></reference>
+  <reference key="30"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -10732,10 +10732,6 @@ Universidad Técnica Particular de Loja"></unicode>
    <list>
     <reference key="14"></reference>
    </list>
-   <string role="key" value="4fa3854e4c389e0d94368ba7368c4c87"></string>
-   <list>
-    <reference key="31"></reference>
-   </list>
    <string role="key" value="53444b1ff912e6c093301041ed0aec64"></string>
    <list>
     <reference key="177"></reference>
@@ -10799,6 +10795,10 @@ Universidad Técnica Particular de Loja"></unicode>
    <string role="key" value="e8a376aeb6e196532386d23ef3a04151"></string>
    <list>
     <reference key="41"></reference>
+   </list>
+   <string role="key" value="ecc27c54bb97e70dd31d9e4719c9effa"></string>
+   <list>
+    <reference key="31"></reference>
    </list>
    <string role="key" value="eedb2a546df6e0f687bb8ccbd18bcff8"></string>
    <list>
