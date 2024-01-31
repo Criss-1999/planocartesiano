@@ -70,7 +70,7 @@ Universidad Técnica Particular de Loja"></unicode>
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value=""></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -88,7 +88,7 @@ Universidad Técnica Particular de Loja"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
   <int value="88"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="37"></int>
+  <int value="39"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
@@ -485,7 +485,9 @@ Universidad Técnica Particular de Loja"></unicode>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Con los  fundamentos teóricos presentados a continuación comprenderás de mejor manera los temas relacionados a los sistemas cartesianos. Entra a cada uno de ellos para encontrar conceptos y ejercicios aplicables. &lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;resources/rene.jpg&quot; alt=&quot;Rene Descartes&quot; width=&quot;367&quot; height=&quot;367&quot; /&gt;&lt;/p&gt;
+&lt;figure class=&quot;exe-figure exe-image position-center&quot; style=&quot;width: 363px;&quot;&gt;&lt;img src=&quot;resources/Rene_Descartes.jpg&quot; alt=&quot;Rene Descartes&quot; title=&quot;Rene Descartes&quot; width=&quot;363&quot; height=&quot;267&quot; /&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
@@ -506,7 +508,7 @@ Universidad Técnica Particular de Loja"></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="662"></int>
+                     <int value="663"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -520,7 +522,7 @@ Universidad Técnica Particular de Loja"></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="22_124_2.1"></unicode>
+                   <unicode value="22_124_2.2"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="11">
                     <dictionary>
@@ -529,11 +531,11 @@ Universidad Técnica Particular de Loja"></unicode>
                      <string role="key" value="_package"></string>
                      <reference key="4"></reference>
                      <string role="key" value="_storageName"></string>
-                     <string value="rene.jpg"></string>
+                     <string value="Rene_Descartes.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\rene.jpg"></string>
+                     <string value="c:\\users\\user\\appdata\\local\\temp\\tmp37ng_v.eXe\\previews\\allyourbase\\Rene_Descartes.jpg"></string>
                      <string role="key" value="checksum"></string>
-                     <string value="470c6ef81d474d3470e24053160b3792"></string>
+                     <string value="250e0d94afc7ea89e7e9387004e85716"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                      <int value="2"></int>
                      <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -560,7 +562,7 @@ Universidad Técnica Particular de Loja"></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="2"></int>
+              <int value="3"></int>
               <string role="key" value="parentNode"></string>
               <reference key="10"></reference>
              </dictionary>
@@ -740,7 +742,7 @@ Universidad Técnica Particular de Loja"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="eje_de_las_absisas.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\eje_de_las_absisas.jpg"></string>
+                        <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\eje_de_las_absisas.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="469391a0695cc44588524477f5fc9776"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -959,7 +961,7 @@ Universidad Técnica Particular de Loja"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="origen.webp"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\origen.webp"></string>
+                        <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\origen.webp"></string>
                         <string role="key" value="checksum"></string>
                         <string value="ce8eb897bf7a722fd611991ee60eaf7e"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1170,7 +1172,7 @@ Universidad Técnica Particular de Loja"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="linea2.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\linea2.png"></string>
+                        <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\linea2.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="22ea325507757d43824984415025b99f"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1382,7 +1384,7 @@ Universidad Técnica Particular de Loja"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="dos_puntps.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\dos_puntps.png"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\dos_puntps.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="796648572f2787a5d064fd27e3032e3b"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1434,7 +1436,7 @@ Universidad Técnica Particular de Loja"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Imagen4.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\Imagen4.png"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\Imagen4.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="eedb2a546df6e0f687bb8ccbd18bcff8"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1649,7 +1651,7 @@ Universidad Técnica Particular de Loja"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img0.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\img0.png"></string>
+                        <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\img0.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="ecc27c54bb97e70dd31d9e4719c9effa"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1861,7 +1863,7 @@ Universidad Técnica Particular de Loja"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Imagen5.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\Imagen5.png"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\Imagen5.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="89156e5a90a268a6cc8b7848ad3a6eba"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1913,7 +1915,7 @@ Universidad Técnica Particular de Loja"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Imagen6.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\Imagen6.png"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\Imagen6.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="241786e6a06f1aa137a10a08986fb9b5"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2133,7 +2135,7 @@ Universidad Técnica Particular de Loja"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Imagen10.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\Imagen10.png"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\Imagen10.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="e8a376aeb6e196532386d23ef3a04151"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2185,7 +2187,7 @@ Universidad Técnica Particular de Loja"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Imagen11.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\Imagen11.png"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\Imagen11.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="8146b24031fd09233f8cce4a32ea1d9b"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2237,7 +2239,7 @@ Universidad Técnica Particular de Loja"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Imagen12.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\Imagen12.png"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\Imagen12.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="31f652a16e41a0efc82fd40d68fc20cb"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2289,7 +2291,7 @@ Universidad Técnica Particular de Loja"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Imagen13.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\Imagen13.jpg"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\Imagen13.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="1c09578ee52f90b27ecb0e66b8930c3a"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2341,7 +2343,7 @@ Universidad Técnica Particular de Loja"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Imagen9.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\Imagen9.png"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\Imagen9.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="ae8067f89fafe8211a69e06800679af5"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2571,7 +2573,7 @@ Universidad Técnica Particular de Loja"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Imagen14.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\Imagen14.png"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\Imagen14.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="d4e65dc1a676daa799f96aefe8510b4c"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2623,7 +2625,7 @@ Universidad Técnica Particular de Loja"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Imagen15.gif"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\Imagen15.gif"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\Imagen15.gif"></string>
                            <string role="key" value="checksum"></string>
                            <string value="a4a8df146c1bd51994ff1c12330b4910"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2675,7 +2677,7 @@ Universidad Técnica Particular de Loja"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Imagen16.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\Imagen16.png"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\Imagen16.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="98fad43634e616d4ed77f585715d6c2b"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2727,7 +2729,7 @@ Universidad Técnica Particular de Loja"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Imagen17.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\Imagen17.png"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\Imagen17.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="aaed175339d32baa8d5b059920360b1c"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2779,7 +2781,7 @@ Universidad Técnica Particular de Loja"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Imagen18.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\Imagen18.png"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\Imagen18.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="a4345a764a53fde56a76a9a798969edd"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2831,7 +2833,7 @@ Universidad Técnica Particular de Loja"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Imagen19.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\Imagen19.png"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\Imagen19.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="a81b378626db0092c5b281db274ad41c"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5363,7 +5365,7 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                              <string role="key" value="_storageName"></string>
                              <string value="79.png"></string>
                              <string role="key" value="_userName"></string>
-                             <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\79.png"></string>
+                             <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\79.png"></string>
                              <string role="key" value="checksum"></string>
                              <string value="2dbd482b14da45baae3f095f40579e24"></string>
                              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5524,7 +5526,7 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                              <string role="key" value="_storageName"></string>
                              <string value="78.png"></string>
                              <string role="key" value="_userName"></string>
-                             <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\78.png"></string>
+                             <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\78.png"></string>
                              <string role="key" value="checksum"></string>
                              <string value="d1c90508b09e3c166227a76158d7c094"></string>
                              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6530,7 +6532,7 @@ do not want to provide a hint, leave this field blank."></unicode>
                           <string role="key" value="_storageName"></string>
                           <string value="Captura_de_pantalla_2024-01-25_025347.png"></string>
                           <string role="key" value="_userName"></string>
-                          <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\Captura_de_pantalla_2024-01-25_025347.png"></string>
+                          <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\Captura_de_pantalla_2024-01-25_025347.png"></string>
                           <string role="key" value="checksum"></string>
                           <string value="98ea119444ae21013bb519e551edb355"></string>
                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7033,7 +7035,7 @@ for the other options."></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="distancia.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\distancia.png"></string>
+                        <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\distancia.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="9e54495512c0b3d23f8d12b31471d755"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8267,7 +8269,7 @@ for the other options."></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="inte_1.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\inte_1.png"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\inte_1.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="f1a3c06161ffbc04a4ce2be36ee747a5"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -9412,7 +9414,7 @@ for the other options."></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="inte_2.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp9b3hqs\\inte_2.png"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpbtq20y\\inte_2.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="53444b1ff912e6c093301041ed0aec64"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -9728,7 +9730,7 @@ for the other options."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="60"></reference>
+  <reference key="10"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -10775,6 +10777,10 @@ Universidad Técnica Particular de Loja"></unicode>
    <list>
     <reference key="37"></reference>
    </list>
+   <string role="key" value="250e0d94afc7ea89e7e9387004e85716"></string>
+   <list>
+    <reference key="11"></reference>
+   </list>
    <string role="key" value="2dbd482b14da45baae3f095f40579e24"></string>
    <list>
     <reference key="104"></reference>
@@ -10786,10 +10792,6 @@ Universidad Técnica Particular de Loja"></unicode>
    <string role="key" value="469391a0695cc44588524477f5fc9776"></string>
    <list>
     <reference key="15"></reference>
-   </list>
-   <string role="key" value="470c6ef81d474d3470e24053160b3792"></string>
-   <list>
-    <reference key="11"></reference>
    </list>
    <string role="key" value="53444b1ff912e6c093301041ed0aec64"></string>
    <list>
